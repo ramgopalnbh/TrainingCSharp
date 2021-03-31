@@ -1,0 +1,16 @@
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.exe
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.deps.json
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.json
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.runtimeconfig.dev.json
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csprojAssemblyReference.cache
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.AssemblyInfo.cs
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.dll
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.pdb
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.genruntimeconfig.cache
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Trainning\CSarp\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\netcoreapp3.1\ExtensionMethodDemo.csproj.CopyComplete

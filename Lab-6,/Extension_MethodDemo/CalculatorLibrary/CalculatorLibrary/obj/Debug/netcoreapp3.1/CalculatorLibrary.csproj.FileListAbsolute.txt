@@ -1,0 +1,8 @@
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.deps.json
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.AssemblyInfo.cs
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Trainning\CSarp\CalculatorLibrary\CalculatorLibrary\obj\Debug\netcoreapp3.1\CalculatorLibrary.pdb

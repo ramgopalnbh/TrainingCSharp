@@ -1,0 +1,13 @@
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.exe
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.deps.json
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.runtimeconfig.json
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.runtimeconfig.dev.json
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.dll
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\bin\Debug\netcoreapp3.1\DelegateCalculatorApp.pdb
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.csprojAssemblyReference.cache
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.AssemblyInfo.cs
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.dll
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.pdb
+C:\Trainning\CSarp\DelegateCalculatorApp\DelegateCalculatorApp\obj\Debug\netcoreapp3.1\DelegateCalculatorApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.exe
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.deps.json
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.dll
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\bin\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.pdb
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.dll
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.pdb
+C:\Users\S S INFOTECH\source\repos\SimpleExpressionTree Using Lambda Expression\SimpleExpressionTree Using Lambda Expression\obj\Debug\netcoreapp3.1\SimpleExpressionTree Using Lambda Expression.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.csprojAssemblyReference.cache
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.AssemblyInfo.cs
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.exe
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.deps.json
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.runtimeconfig.json
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.runtimeconfig.dev.json
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.dll
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\bin\Debug\netcoreapp3.1\DelegateDemoBook.pdb
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.dll
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.pdb
+C:\Trainning\CSarp\DelegateDemoBook\DelegateDemoBook\obj\Debug\netcoreapp3.1\DelegateDemoBook.genruntimeconfig.cache

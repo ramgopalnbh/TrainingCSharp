@@ -1,0 +1,13 @@
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.exe
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.deps.json
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.runtimeconfig.json
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.runtimeconfig.dev.json
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.dll
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\bin\Debug\netcoreapp3.1\OverridingToString()Method.pdb
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.csprojAssemblyReference.cache
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.AssemblyInfo.cs
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.dll
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.pdb
+C:\Trainning\CSarp\OverridingToString()Method\OverridingToString()Method\obj\Debug\netcoreapp3.1\OverridingToString()Method.genruntimeconfig.cache
